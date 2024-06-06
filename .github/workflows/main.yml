@@ -2,7 +2,7 @@ name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,17 +10,22 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
       # Snake Animation
-      - uses: Platane/snk@v3.2.0
-        id: snake-gif
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3.2.0
         with:
           github_user_name: itsdevsyed
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          gif_out_path: dist/ocean.gif
+          svg_out_path: dist/github-snake.svg
+          svg_out_path_dark: dist/github-snake-dark.svg
 
-      - uses: crazy-max/ghaction-github-pages@v4.0.0
+      # Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: output
           build_dir: dist
