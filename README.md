@@ -30,47 +30,76 @@
 
 </div>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
-<br/>
+- 🔭 I’m currently working on **E-Commerce app**
 
-<div align="center">
- 
-🔭 I’m currently working on an **E-Commerce app**.
- 
- 🌱 I’m currently learning **AWS EC2, S3, Lambda, RDS,**
+- 🌱 I’m currently learning **AWS EC2, S3, Lambda, RDS,**
 
-💬 Ask me about **Node.js, React, Firebase, Nextjs, Java.. or anything [here](https://github.com/itsdevsyed/itsdevsyed/issues)**
+- 💬 Ask me about **Node.js, React, Firebase, Nextjs, Java.. or anything [here](https://github.com/itsdevsyed/itsdevsyed/issues)**
 
-⚡ Fun Fact: **Linux > Windows**
+- 📫 How to reach me **syedshoib25@gmail.com**
 
- </div>
+- ⚡ Fun fact **Linux > Windows**
+
+<br>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/itsdevsyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsdevsyed" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9565088/itsdevsyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="itsdevsyed" height="30" width="40" /></a>
 <a href="https://instagram.com/itsdevsyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsdevsyed" height="30" width="40" /></a>
 <a href="https://x.com/itsdevsyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsdevsyed" height="30" width="40" /></a>
 </p>
 <br> 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3 align="left">Languages and Tools:</h3>
 
 
 
+ - Programming Language 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python," />
+  </a>
+</p>
 
- 
- 
+ - Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui,nextjs" />
+  </a>
+</p>
 
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,javascript" />
+  </a>
+</p>
 
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,firebase" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,jenkins,pycharm,github,docker,idea,vscode,postman,linux" />
+  </a>
+</p>
  <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git " />
-    <img src="https://skillicons.dev/icons?i=nodejs,cpp,c,linux,ansible,java,jenkins,kubernetes,latex,mongodb,nginx,redux,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,vscode ,idea" /><br>
-</div>
+
 
 <br/>
 
