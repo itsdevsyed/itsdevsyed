@@ -1,4 +1,4 @@
-name: Generate Datas
+name: snake gif
 
 on:
   schedule: # execute every 12 hours
