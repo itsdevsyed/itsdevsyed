@@ -74,7 +74,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,javascript" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs" />
   </a>
 </p>
 
