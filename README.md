@@ -98,11 +98,6 @@
     <img src="https://skillicons.dev/icons?i=git,jenkins,pycharm,github,docker,idea,vscode,postman,linux" />
   </a>
 </p>
- <hr/>
-
-
-<br/>
-
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
