@@ -39,7 +39,7 @@
 
 - 💬 Ask me about **Node.js, React, Firebase, Nextjs, Java.. or anything [here](https://github.com/itsdevsyed/itsdevsyed/issues)**
 
-- 📫 How to reach me **syedshoib25@gmail.com**
+- 📫 How to reach me **imsyed42u@gmail.com**
 
 - ⚡ Fun fact **Linux > Windows**
 
