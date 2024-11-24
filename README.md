@@ -35,7 +35,7 @@
 
 - 🔭 I’m currently working on **E-Commerce app**
 
-- 🌱 I’m currently learning **AWS EC2, S3, Lambda, RDS,**
+- 🌱 I’m currently learning **Redis, Web-Sockets,S Lambda, RDS,**
 
 - 💬 Ask me about **Node.js, React, Firebase, Nextjs, Java.. or anything [here](https://github.com/itsdevsyed/itsdevsyed/issues)**
 
