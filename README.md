@@ -33,13 +33,13 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **E-Commerce app**
+- 🔭 I’m currently working on **Flynkky A Fast-Commers App**
 
 - 🌱 I’m currently learning **Redis, Web-Sockets,S Lambda, RDS,**
 
 - 💬 Ask me about **Node.js, React, Firebase, Nextjs, Java.. or anything [here](https://github.com/itsdevsyed/itsdevsyed/issues)**
 
-- 📫 How to reach me **syedshoaib8087@gmail.com**
+- 📫 How to reach me **shoaib.syed4@outlook.com**
 
 - ⚡ Fun fact **Linux > Windows**
 
