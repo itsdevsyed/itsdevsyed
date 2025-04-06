@@ -1,4 +1,9 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=itsdevsyed.visitor-badge)
+<hr />
+
+<h3 align="left"> 👀 visitor count</h3>
+<img src="https://profile-counter.glitch.me/itsdevsyed/count.svg" alt="Hello world" />
+
+<hr />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Syed+Shoaib;" />
 </h1>
